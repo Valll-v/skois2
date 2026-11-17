@@ -1,17 +1,18 @@
 {
   "video": "mona-lisa-blur.avi",
   "frames": 558,
-  "reference_keypoints": 344,
+  "reference_keypoints": 1825,
   "roi": [
     0,
     0,
     640,
     360
   ],
-  "found": 296,
-  "mean_matches": 25.224014336917563,
-  "mean_inliers": 17.953405017921146,
-  "seconds": 22.221201200001815,
-  "processing_fps": 25.11115375706847,
-  "opencv": "5.0.0"
+  "found": 535,
+  "mean_matches": 38.16793893129771,
+  "mean_inliers": 25.801526717557252,
+  "seconds": 14.118285199998354,
+  "processing_fps": 39.523213484883065,
+  "opencv": "5.0.0",
+  "sift_frames_with_matches": 131
 }

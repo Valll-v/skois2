@@ -1,0 +1,18 @@
+{
+  "video": "own.mp4",
+  "frames": 489,
+  "reference_keypoints": 10088,
+  "roi": [
+    125,
+    300,
+    470,
+    720
+  ],
+  "found": 167,
+  "sift_frames_with_matches": 360,
+  "mean_matches": 87.62222222222222,
+  "mean_inliers": 56.611111111111114,
+  "seconds": 139.24376280000433,
+  "processing_fps": 3.5118269584710244,
+  "opencv": "5.0.0"
+}

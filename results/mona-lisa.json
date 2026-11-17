@@ -1,17 +1,18 @@
 {
   "video": "mona-lisa.avi",
   "frames": 558,
-  "reference_keypoints": 344,
+  "reference_keypoints": 1825,
   "roi": [
     0,
     0,
     640,
     360
   ],
-  "found": 315,
-  "mean_matches": 29.29749103942652,
-  "mean_inliers": 21.983870967741936,
-  "seconds": 22.328595200000564,
-  "processing_fps": 24.990376465778997,
-  "opencv": "5.0.0"
+  "found": 554,
+  "mean_matches": 50.86086956521739,
+  "mean_inliers": 37.03478260869565,
+  "seconds": 14.227706899997429,
+  "processing_fps": 39.21925043311799,
+  "opencv": "5.0.0",
+  "sift_frames_with_matches": 115
 }
