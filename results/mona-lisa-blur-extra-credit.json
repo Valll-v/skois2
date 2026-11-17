@@ -1,0 +1,17 @@
+{
+  "video": "mona-lisa-blur-extra-credit.avi",
+  "frames": 558,
+  "reference_keypoints": 343,
+  "roi": [
+    0,
+    0,
+    640,
+    360
+  ],
+  "found": 281,
+  "mean_matches": 25.121863799283155,
+  "mean_inliers": 17.530465949820787,
+  "seconds": 22.28555100000085,
+  "processing_fps": 25.038644994686408,
+  "opencv": "5.0.0"
+}
